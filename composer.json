@@ -1,0 +1,9 @@
+{
+    "name": "sweetman/factory-pattern",
+    "autoload": {
+        "psr-4": {
+            "Sweetman\\FactoryPattern\\": "Factory/"
+        }
+    },
+    "require": {}
+}
